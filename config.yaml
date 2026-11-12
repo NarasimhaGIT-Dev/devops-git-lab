@@ -1,0 +1,5 @@
+application:
+  name: devops-git-lab
+  environment: development
+  log_level: INFO
+  replicas: 2
